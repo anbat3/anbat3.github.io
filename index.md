@@ -44,10 +44,3 @@ Interactive NLP application for pragmatic discourse analysis. Combines LLMs, pro
 - Conversational AI
 - Data Engineering
 
----
-
-## Contact
-
-- GitHub: @anbat3
-- LinkedIn: /in/anabelarasanz
-- Email: anabelarasanz@disroot.org
