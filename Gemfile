@@ -1,3 +1,3 @@
+source "https://rubygems.org"
 
-
-gem 'cvless', '~> 2.7', '>= 2.7.4'
+gem "github-pages", group: :jekyll_plugins
