@@ -1,14 +1,44 @@
-title: ""
-description: ""
+title: Anabel Arasanz
+description: Computational Linguist | NLP & AI Specialist
+
 baseurl: ""
-url: ""
+url: https://anbat3.github.io
+
+theme: cvless
+
+# site settings
+taglong: Computational Linguist | NLP & AI Specialist
+tagshort: NLP & AI Specialist
+
+# author settings
+author:
+  name: Anabel Arasanz
+  email: anabelarasanz@disroot.org
+
+photo: assets/files/photo.png
+
+joblines:
+  - Computational Linguist
+  - NLP & AI Specialist
+  - Madrid, Spain
+
+address: Madrid, Spain
+phone:
+
+# profile links
+profile:
+  linkedin: https://www.linkedin.com/in/anabelarasanz
+  github: https://github.com/anbat3
+  cv: true
+
+# build settings
+permalink: pretty
 
 exclude:
-  - demo/
-  - cvless.gemspec
   - LICENSE
   - README.md
-  - screenshot.png
+  - Gemfile
+  - vendor/
 
 plugins:
   - jekyll-feed
@@ -18,18 +48,4 @@ plugins:
   - jekyll-sitemap
 
 sass:
-  style: compressed
   sourcemap: never
-
-feed:
-  path: atom.xml
-
-autopages:
-  enabled: false
-
-pagination:
-  enabled: true
-  per_page: 1
-  sort_reverse: true
-  permalink: /:num/
-  title: ":title &middot; Page :num"
