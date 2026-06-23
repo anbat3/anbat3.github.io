@@ -4,7 +4,7 @@ description: Computational Linguist | NLP & AI Specialist
 baseurl: ""
 url: https://anbat3.github.io
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: Computational Linguist | NLP & AI Specialist
