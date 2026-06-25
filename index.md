@@ -24,7 +24,7 @@ Multi-agent system for automated financial news analysis using CrewAI, LangChain
 
 Multilingual conversational assistant for hate speech detection and reporting.
 
-[View Project](https://github.com/proyectoDELIA/DEL.IA-chatbot.git))
+[View Project](https://github.com/proyectoDELIA/DEL.IA-chatbot.git)
 
 ### Pragmatic Analyzer
 
