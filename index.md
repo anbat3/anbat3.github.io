@@ -18,13 +18,13 @@ Today, my day-to-day involves training NLU pipelines, orchestrating GenAI agents
 
 Multi-agent system for automated financial news analysis using CrewAI, LangChain, OpenAI and spaCy.
 
-[View Project]([projects/financial-news-classifier](https://github.com/anbat3/financial-news-agent.git))
+[View project](https://github.com/anbat3/financial-news-agent.git)
 
 ### DEL.IA
 
 Multilingual conversational assistant for hate speech detection and reporting.
 
-[View Project][(projects/delia](https://github.com/proyectoDELIA/DEL.IA-chatbot.git))
+[View Project](https://github.com/proyectoDELIA/DEL.IA-chatbot.git))
 
 ### Pragmatic Analyzer
 
