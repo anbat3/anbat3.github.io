@@ -71,4 +71,4 @@ The theme draws in one way or another from the following projects:
 
 ## Bugs
 
-If you find any problem using this theme, please [open an issue](https://github.com/piazzai/cvless/issues).
+If you find any problem using this theme, please [open an issue](https://github.com/piazzai/cvless/issues). 
