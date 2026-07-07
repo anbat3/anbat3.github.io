@@ -30,7 +30,7 @@ Multilingual conversational assistant for hate speech detection and reporting.
 
 Interactive NLP application for pragmatic discourse analysis. Combines LLMs, prompt engineering and linguistic theory to identify, classify and explain violations of Grice's Conversational Maxims, generating annotated reports and document integrity scores.
 
-[View Project](to be uploaded)
+(to be updated)
 ---
 
 ## Core Expertise
